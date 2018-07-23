@@ -24,4 +24,4 @@ puts "Step 8: Bring your left hand up and around to the back of your head ."
 
 
 
-puts "Step 9 : Final step"
+
